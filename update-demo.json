@@ -11,7 +11,7 @@
       "signature": "",
       "url": ""
     },
-    "darwin-x86_64": {
+    "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWFnYzRLMzJib2hudnZjNUlqdGdVZG1MUFZPQjFwSmduWTczZldIVWE2WTlZdENQREFFU0taSlNIbXlLMG1YaHV6c3FOOVUvaWNuNWlWNWZ2MDlUbU9UaVRlSisvQ0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwNzYzNTY5CWZpbGU6dXBkYXRlLWRlbW8uYXBwLnRhci5nego1Q1IwVHdJTEIxQklPOGVmUFhrWnMzb1U3NFFIWThvMkpyQk9tblU4OUVXSGQxc1VPWmlJdEY2ZEtmSzN0Slk3UHJtTTgwQ25BblExQ0J4dWNLWU5DZz09Cg==",
       "url": "https://raw.githubusercontent.com/soddygo/update-demo/refs/heads/main/update-demo.app.tar.gz"
     }
