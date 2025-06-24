@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.2.0",
   "notes": "update test",
   "pub_date": "2025-06-23T12:29:53+01:00",
   "platforms": {
@@ -13,7 +13,7 @@
     },
     "darwin-x86_64": {
       "signature": "",
-      "url": ""
+      "url": "https://raw.githubusercontent.com/soddygo/update-demo/refs/heads/main/update-demo.app.tar.gz"
     }
   }
 }
