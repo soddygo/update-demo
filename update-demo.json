@@ -1,0 +1,19 @@
+{
+  "version": "0.0.2",
+  "notes": "update test",
+  "pub_date": "2025-06-23T12:29:53+01:00",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
