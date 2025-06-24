@@ -8,7 +8,7 @@
       "url": "https://github.com/soddygo/update-demo/releases/download/v0.2.0/update-demo.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWFnYzRLMzJib21XQ1A2S1RIYXROUW1wTm9wU3Y0OHdOTWRHRytiNFR0eGhkbmVab2tzVjJDclhlaUl2bXlJMEJpb1YvWHVEd1R6NWJpZFVJWVQyQ29VNlZ1bnZwR3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwNzY0NDE2CWZpbGU6dXBkYXRlLWRlbW8uYXBwLnRhci5negpub2JGZml2TXlmTXRjMkoxZFVITThGNDk2YTFoUVFNZmxPajh5d3JRenRYd2U4VzZiZy95OHFSV0hSbjdVSS9qK0duQWo5dHpJNmpYUUlPNU42ZHFBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWFnYzRLMzJib3NWOTNtUmxRSWNsa1ZYOEJhNDBHRUZybUhZeHNGK0ZrN2JyWkJqV295Q2xBRVBuWFc1aFNUTFp0cGJObTgrQitxai9lOXh1TUZ6NjFUaExXMUJQNmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwNzcyMTczCWZpbGU6dXBkYXRlLWRlbW8uYXBwLnRhci5negpuWXlpZi9FY3dqaUZXaG9RUGtYOFY4a09ScG0wbWdUZmMzTllzZ0U2MmJacXNNN2dYbGQzV1JkNklaT1NUdU1wa3lWVVJjd3VQNm9vb1R2b1FBVktCdz09Cg==",
       "url": "https://github.com/soddygo/update-demo/releases/download/v0.2.0/update-demo.app.tar.gz"
     },
     "windows-x86_64": {
