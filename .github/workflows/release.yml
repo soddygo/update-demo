@@ -13,6 +13,9 @@ jobs:
         platform: [ 'macos-latest' ] # We are only targeting macOS for now
 
     runs-on: ${{ matrix.platform }}
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
 
@@ -29,11 +32,6 @@ jobs:
 
       - name: 'Install frontend dependencies'
         run: yarn install --frozen-lockfile
-
-      - name: 'Verify secret format'
-        run: |
-          echo "Verifying TAURI_SIGNING_PRIVATE_KEY format..."
-          echo "${{ secrets.TAURI_SIGNING_PRIVATE_KEY }}" | wc -l
 
       - name: 'Build and release'
         uses: tauri-apps/tauri-action@v0
